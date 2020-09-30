@@ -6,14 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Login</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-     <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body onload="myFunction()"  style="background-color:black">
 <!-- pre loader -->
 
 <div class="preload" id="loader">
     <div class="icon">
-        <img src="icon.png"></div>
+    	<img src="icon.png"></div>
             
     <div class="loader-frame">
         <div class="loader1" id="loader1"></div>
@@ -29,8 +29,6 @@
         <!-- head End's here -->
         
     <div class="container" style="margin-left: 20%; width: 60%; margin-top:20px;border: 2px solid white; border-radius: 20PX ;padding-bottom: 20px; ">
-	    
-
       <H3 style="color:#73f1ff; text-align: center; padding: 12px; ">SignUp form</H3>
     
 <!-- form Starts Here -->
